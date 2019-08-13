@@ -1,0 +1,11 @@
+{
+  "name": "carly-rae-json",
+  "version": "1.0.0",
+  "description": "A json library I am to write",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kara Stubbs",
+  "license": "ISC"
+}
